@@ -31,7 +31,7 @@
             </div>
             <div class="form-group">
               <input type="submit" class="btn btn-primary btn-lg btn-block" value="Ingresar" name="validar.php">
-            <span><a href="manualUsuario.pdf" target="_blank">Manual de Usuario</a></span>
+            
             </div>
           </form>
       </div>
