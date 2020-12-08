@@ -1,0 +1,43 @@
+body {
+    background-image: url("images/bgimage2.jpg");
+    padding-top: 0px;
+}
+.encabezado {
+  color : white;
+  font-size: 30;
+  padding-bottom: 9px;
+  margin: 20px 0 20px;
+  border-bottom: 1px solid #eee;
+  text-align: center;
+}
+
+.lista_proyectos {
+  background-image: url(images/proyecto1.jpg) !important;
+  background-size: cover;
+  min-height: 30vh;
+  margin: 3vw 7.5vw;
+  padding: 1rem;
+}
+
+.lista_proyectos2 {
+  background-image: url(images/proyecto2.jpg) !important;
+  background-size: cover;
+  min-height: 30vh;
+  margin: 3vw 7.5vw;
+  padding: 1rem;
+}
+
+.lista_proyectos3 {
+  background-image: url(images/proyecto3.jpg) !important;
+  background-size: cover;
+  min-height: 30vh;
+  margin: 3vw 7.5vw;
+  padding: 1rem;
+}
+
+#verproyecto {
+  margin-top: 20vh;
+}
+label {
+  color: #FFF;
+}
